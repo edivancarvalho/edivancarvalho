@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Edivan Carvalho :man_technologist:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edivan-carvalho-5562a532/)](https://www.linkedin.com/in/edivan-carvalho-5562a532)
+
+### Helloooo! 👋 Welcome to my profile
+- 😄 I really like to learn
